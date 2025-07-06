@@ -1,0 +1,31 @@
+/* подключение шрифта */
+.some-text {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.som-text {
+    text-decoration: line-through;
+}
+
+.so-text {
+    font-family: serif;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.s-text {
+    color: rgb(4, 182, 188);
+    text-decoration: wavy;
+    word-spacing: 30px;
+    text-decoration-line: overline;
+    text-shadow: 1px 1px 1px rgb(244, 128, 128);
+}
+
+.text {
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
