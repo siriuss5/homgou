@@ -1,0 +1,18 @@
+.ram {
+    background: #e5b0b0;
+    height: 600px;
+    overflow: auto;
+    border-radius: 20px 0 0 20px;
+}
+
+.block {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #58e4f1;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    margin: 10px;
+    box-shadow: inset 1px 1px 20px 7px #000;
+}
